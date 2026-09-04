@@ -1,4 +1,4 @@
-package primeiro_programa;
+package java_basico;
 import java.util.Locale;
 
 public class IdiomaDaMaquina {

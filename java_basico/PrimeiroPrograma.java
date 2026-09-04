@@ -1,4 +1,4 @@
-package primeiro_programa;
+package java_basico;
 
 public class PrimeiroPrograma {
     public static void main(String[] args) {

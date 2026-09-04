@@ -1,4 +1,4 @@
-package primeiro_programa;
+package java_basico;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;
