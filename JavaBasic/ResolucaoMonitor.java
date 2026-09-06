@@ -1,4 +1,4 @@
-package java_basico;
+package JavaBasic;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;
