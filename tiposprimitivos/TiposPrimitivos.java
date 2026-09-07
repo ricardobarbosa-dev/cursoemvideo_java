@@ -18,7 +18,7 @@ public class TiposPrimitivos {
 
         System.out.println("Nome: " + nome);
         System.out.printf("Nota: %.2f%n", nota);
-        System.out.println("Idade: " + idade);
+        System.out.println("Idade: " + idade); 
         System.out.println("Sexo: " + sexo);
         System.out.println("Estudando: " + estudando);
     }
